@@ -16,7 +16,8 @@
     "GameNetworkType": "Multiplayer",
     "MapSelect": "Tagged",
     "MapList": [
-      "facepunch.flatgrass"
+      "facepunch.flatgrass",
+      "facepunch.construct"
     ],
     "RankType": "None",
     "PerMapRanking": false,
