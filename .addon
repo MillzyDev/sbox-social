@@ -14,7 +14,7 @@
     "MaxPlayers": 24,
     "MinPlayers": 1,
     "GameNetworkType": "Multiplayer",
-    "MapSelect": "Tagged",
+    "MapSelect": "Unrestricted",
     "MapList": [
       "facepunch.flatgrass",
       "facepunch.construct"
